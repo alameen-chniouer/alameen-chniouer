@@ -28,14 +28,14 @@ Here are my main weapons of choice:
 
 ---
 
-### ✨ Cool Projects
-Here are some highlights from my work:
-1. **[TradingView Strategy Library](https://github.com/alameen-chniouer/tradingview-library)**  
-   Advanced Pine Script strategies for traders and financial analysts.
-2. **[AI Chatbot](https://github.com/alameen-chniouer/ai-chatbot)**  
-   Intelligent conversational agents with NodeJS & Python.
-3. **[SQL Automation Toolkit](https://github.com/alameen-chniouer/sql-automation-toolkit)**  
-   Automated workflows for managing large-scale databases.
+### ✨ Recent Projects
+Here are some recent highlights from my work:
+1. **[Streamlit - Pinecone Integration](https://github.com/alameen-chniouer/Streamlit-Pinecone-Integration)**  
+   Integrating Streamlit apps with a VectorDB for rapid information processing.
+2. **[Parcel Data API Handler](https://github.com/alameen-chniouer/Parcel-Data-Reverse-Location-Search)**  
+   This API endpoint dynamically constructs and sends a query to the ReportAllUSA API to fetch parcel data based on client-specified filters.
+3. **[Data Force Labs - SaaS Dashboard Application](https://github.com/alameen-chniouer/dfl-backend-dash)**  
+   This project is a data-driven SaaS dashboard designed for managing leads, tasks, and API endpoints, with specialized features for healthcare contact discovery. 
 
 ---
 
