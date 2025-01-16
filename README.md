@@ -22,9 +22,9 @@ Here are my main weapons of choice:
 ---
 
 ### 🌐 Find Me Online
-- 💼 LinkedIn: [Alameen Chniouer](https://www.linkedin.com/in/alameen-chniouer/)
-- 💻 Portfolio: [alameen.dev](https://alameen.dev)
-- 🐦 Twitter: [@alameench](https://twitter.com/alameench)
+- 💼 LinkedIn: Coming Soon..
+- 💻 Portfolio: Coming Soon..
+- 🐦 Twitter: Coming Soon..
 
 ---
 
