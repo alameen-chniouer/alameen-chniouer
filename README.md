@@ -12,12 +12,7 @@ Here are my main weapons of choice:
 
 ---
 
-### 🌟 My GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alameen-chniouer&show_icons=true&hide_title=true&hide=prs,issues,contribs&theme=radical" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alameen-chniouer&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 🌐 Private whilst rebuilding personal projects - any questions please DM.
 
 ---
 
