@@ -1,17 +1,3 @@
-### 🚀 About Me
----
-
-### 🛠️ Languages & Tools
-
-Here are my main weapons of choice:
-
-- **Frontend**: JavaScript (JS), TypeScript (TS)
-- **Backend**: NodeJS, Python, Java
-- **Data**: SQL
-- **Specialist Skills**: Pine Script (TradingView strategies)
-
----
-
 ### 🌐 Private whilst rebuilding personal projects - any questions please DM.
 
 ---
